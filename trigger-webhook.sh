@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
  # trigger-webhook  
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
